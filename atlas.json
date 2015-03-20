@@ -1,0 +1,29 @@
+{
+  "files": [
+    "cover.html",
+    "01-titlepage.html",
+    "02-copyright.html",
+    "03-toc.html",
+    "04-preface.html",
+    "05-chapter.html",
+    "06-appendix.html"
+  ],
+  "formats": {
+    "pdf": {
+      "version": "web",
+      "toc": true,
+      "syntaxhighlighting": true
+    },
+    "epub": {
+      "syntaxhighlighting": true
+    },
+    "mobi": {
+      "syntaxhighlighting": true
+    },
+    "html": {
+      "toc": true,
+      "syntaxhighlighting": true
+    }
+  },
+  "theme": "oreillymedia/atlas_tech1c_theme"
+}
