@@ -25,5 +25,8 @@
       "syntaxhighlighting": true
     }
   },
-  "theme": "oreillymedia/atlas_tech1c_theme"
+  "theme": "oreillymedia/atlas_tech1c_theme",
+  "name": "fchasen/webhook-test",
+  "branches" : ["master", "v2"],
+  "export_formats" : ["html","pdf"]
 }
