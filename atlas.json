@@ -26,7 +26,7 @@
     }
   },
   "theme": "oreillymedia/atlas_tech1c_theme",
-  "name": "fchasen/something-random",
+  "name": "fchasen/build-test-two",
   "branches" : ["master", "v2"],
   "export_formats" : ["html","pdf"]
 }
